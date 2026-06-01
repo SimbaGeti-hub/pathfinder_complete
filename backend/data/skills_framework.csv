@@ -1,0 +1,34 @@
+career,skill,skill_type,level,learning_resource,resource_type,cost,duration_weeks,description
+Software Developer,Python Programming,Technical,Beginner,CS50P - Harvard Python Course,Online Course,Free,10,Best free Python course. Available on edX. Teaches Python from scratch with real projects.
+Software Developer,JavaScript,Technical,Beginner,The Odin Project,Online Course,Free,16,Complete web development curriculum. Takes you from zero to job-ready JavaScript developer.
+Software Developer,React Framework,Technical,Intermediate,React Official Documentation + Scrimba,Online Course,Free,8,Learn to build modern web interfaces. Scrimba has interactive React course free tier.
+Software Developer,Git & Version Control,Technical,Beginner,Git and GitHub for Beginners - freeCodeCamp YouTube,Video,Free,2,Essential for every developer. Watch on YouTube freeCodeCamp channel.
+Software Developer,Databases & SQL,Technical,Beginner,SQLZoo + Mode Analytics,Online Platform,Free,4,Interactive SQL learning. Practise on real datasets.
+Software Developer,Problem Solving & Algorithms,Technical,Intermediate,LeetCode Easy problems,Practice Platform,Free,12,Practise 3 problems per week. Focus on arrays strings and loops first.
+Software Developer,Node.js Backend,Technical,Intermediate,Node.js official docs + The Odin Project,Online Course,Free,8,Build server-side applications. Pair with Express.js framework.
+Data Analyst,Microsoft Excel,Technical,Beginner,Excel Skills for Business - Coursera Macquarie,Online Course,Free to audit,6,Best Excel course for analysts. Covers VLOOKUP pivot tables charts.
+Data Analyst,SQL for Data Analysis,Technical,Beginner,Mode Analytics SQL Tutorial,Online Course,Free,4,SQL specifically for data analysis. Covers aggregations joins subqueries.
+Data Analyst,Python for Data Science,Technical,Intermediate,Python for Everybody - Coursera University of Michigan,Online Course,Free to audit,8,Most popular Python data science course. Covers pandas numpy matplotlib.
+Data Analyst,Data Visualization,Technical,Intermediate,Tableau Public - free version,Software Practice,Free,4,Download Tableau Public free. Connect to Uganda open data and build dashboards.
+Data Analyst,Statistics,Technical,Beginner,Statistics with Python - Coursera University of Michigan,Online Course,Free to audit,6,Covers descriptive stats hypothesis testing regression. Essential for analysts.
+Data Analyst,Power BI,Technical,Intermediate,Microsoft Learn Power BI,Online Course,Free,4,Microsoft's free learning platform. Power BI is widely used by Ugandan banks and NGOs.
+UX/UI Designer,Figma,Technical,Beginner,Figma for Beginners - Figma YouTube channel,Video,Free,3,Official Figma tutorials. Learn the industry standard design tool from scratch.
+UX/UI Designer,User Research,Conceptual,Beginner,Google UX Design Certificate - Coursera,Online Course,Free to audit,24,Most comprehensive UX course. Covers entire design process from research to prototype.
+UX/UI Designer,Design Thinking,Conceptual,Beginner,IDEO Design Thinking Course - Acumen,Online Course,Free,4,Learn human-centred design from IDEO the firm that invented design thinking.
+UX/UI Designer,Portfolio Building,Professional,Intermediate,Behance + Dribbble platforms,Platform,Free,Ongoing,Create accounts on Behance and Dribbble. Post every project. Ugandan employers check these.
+Digital Marketer,Social Media Marketing,Technical,Beginner,Meta Blueprint - Facebook,Online Course,Free,4,Official Facebook and Instagram marketing courses. Free certification available.
+Digital Marketer,Google Ads,Technical,Beginner,Google Skillshop,Online Course,Free,3,Official Google advertising courses. Free Google Ads certification. Very valuable in Uganda job market.
+Digital Marketer,SEO Fundamentals,Technical,Beginner,Ahrefs SEO Course for Beginners,Video,Free,4,Best free SEO course. Available on YouTube Ahrefs channel.
+Digital Marketer,Content Creation,Creative,Beginner,Canva Design School,Online Course,Free,2,Learn to create social media graphics blog posts and marketing materials using Canva.
+Digital Marketer,Google Analytics,Technical,Intermediate,Google Analytics Academy,Online Course,Free,3,Official Google Analytics training. Free certification. Required skill for all digital marketing jobs.
+Accountant,Financial Accounting,Technical,Beginner,Accounting Fundamentals - Corporate Finance Institute,Online Course,Free trial,6,Covers the complete accounting cycle from journal entries to financial statements.
+Accountant,QuickBooks,Technical,Beginner,QuickBooks Training - official QuickBooks tutorials,Video,Free,3,Most used accounting software in Uganda SMEs. Learn on QuickBooks YouTube channel.
+Accountant,Uganda Tax Law (URA),Technical,Intermediate,Uganda Revenue Authority website - tax guides,Self Study,Free,4,Read URA official guides on income tax VAT PAYE. Essential for working in Uganda.
+Accountant,CPA Uganda Qualification,Professional,Advanced,Institute of Certified Public Accountants of Uganda (ICPAU),Professional Exam,Paid,104,Uganda's official accounting qualification. Register with ICPAU. Salary doubles with this certification.
+Cybersecurity Analyst,Networking Fundamentals,Technical,Beginner,Computer Networking Course - freeCodeCamp YouTube,Video,Free,6,Complete networking course. Covers TCP/IP DNS HTTP firewalls. Essential foundation.
+Cybersecurity Analyst,Ethical Hacking,Technical,Intermediate,CEH Course - EC-Council or TryHackMe,Online Platform,Free tier available,16,TryHackMe has free learning paths for beginners. CEH is the industry certification.
+Cybersecurity Analyst,Linux Command Line,Technical,Beginner,Linux Journey website,Online Course,Free,4,Interactive Linux learning. Essential for cybersecurity work.
+Cybersecurity Analyst,Security Tools,Technical,Intermediate,Kali Linux + OWASP materials,Self Study,Free,8,Download Kali Linux free. Practice in a safe virtual environment.
+Project Manager,Project Management Fundamentals,Conceptual,Beginner,Google Project Management Certificate - Coursera,Online Course,Free to audit,24,Best entry-level PM course. Covers Agile Scrum and traditional PM. Recognised by employers.
+Project Manager,PMP Certification,Professional,Advanced,Project Management Institute (PMI),Professional Exam,Paid,24,Gold standard PM certification. Salary increases significantly. Study for CAPM first then PMP.
+Project Manager,Microsoft Project,Technical,Intermediate,Microsoft Learn - Project tutorials,Online Course,Free,3,Official Microsoft Project training. Used by most Uganda NGOs and construction firms.
