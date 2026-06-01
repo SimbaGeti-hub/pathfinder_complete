@@ -8,7 +8,7 @@ from fastapi import FastAPI, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel
 from dotenv import load_dotenv
-from pathfinder_complete.backend.rag_engine import (
+from rag_engine import (
     get_career_recommendations,
     get_skill_roadmap,
     get_interview_questions,
