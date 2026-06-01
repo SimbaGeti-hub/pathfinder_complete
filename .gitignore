@@ -1,0 +1,11 @@
+# Next.js frontend
+pathfinder/node_modules/
+pathfinder/.next/
+pathfinder/.env.local
+
+# Python backend
+pathfinder-rag/__pycache__/
+pathfinder-rag/*.pyc
+pathfinder-rag/venv/
+pathfinder-rag/.env
+pathfinder-rag/*.egg-info/
