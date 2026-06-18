@@ -12,7 +12,7 @@ Built as part of the **AI Engineering Capstone Project** — Student Career Guid
 |---|---|---|
 | **Geti Simba** | Frontend Engineer | `pathfinder/` — Next.js application, UI/UX, authentication, dashboard, all feature modules |
 | **Veronica Maria Mirembe** | Backend / AI Engineer | `backend/` — Python RAG pipeline, FastAPI, vector search, knowledge base |
-| **Immaculate Kaitesi** | QA & Documentation | Testing, feature validation, presentation support |
+| **Immaculate Kaitesi** | QA & Documentation | Testing, feature validation |
 
 ---
 
